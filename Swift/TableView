@@ -1,0 +1,5 @@
+Shouldn't use tableView in closure, should use self?.tableView instead
+don't need to remove nib for resusable cell if we got the problem of allocation. it isn't the reason.
+don't need to set nil the closure too
+don't nedd to remove the gesture in cell
+if work on it correctly, don't need deinit

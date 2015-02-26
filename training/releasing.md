@@ -1,0 +1,2 @@
+- What's happens if we change the desired release commit?
+- Do we need to remove old branch? [x.y] 

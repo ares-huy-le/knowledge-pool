@@ -1,0 +1,74 @@
+{
+  "rationale": "1 new comment(s) (by: bob)",
+  "events": [
+    {
+      "type": "comment",
+      "source": {
+        "name": "bob",
+        "displayName": "Uncle Bob",
+        "avatarUrls": {
+          "48x48": "https://ios.jira-dev.com/secure/useravatar?avatarId=10423",
+          "72x72": "https://ios.jira-dev.com/secure/useravatar?size=xlarge&avatarId=10423"}
+        },
+        "timestamp": "2015-09-09T06:30:49.566Z",
+        "properties": {
+          "excerpt": "I comment in this situation. It's quite long. And you should replace it with 3 dot. I comment in this situation. It's quite long. And you should replace it with 3 dot.",
+          "commentId": "10619"
+        }
+      },
+      {
+        "type": "comment",
+        "source": {
+          "name": "bob",
+          "displayName": "Uncle Bob",
+          "avatarUrls": {
+            "48x48": "https://ios.jira-dev.com/secure/useravatar?avatarId=10423",
+            "72x72": "https://ios.jira-dev.com/secure/useravatar?size=xlarge&avatarId=10423"}
+          },
+          "timestamp": "2015-09-09T06:30:49.566Z",
+          "properties": {
+            "excerpt": "I comment in this situation. It's quite long. And you should replace it with 3 dot. I comment in this situation. It's quite long. And you should replace it with 3 dot.",
+            "commentId": "10619"
+          }
+        },
+        {
+          "type": "comment",
+          "source": {
+            "name": "bob",
+            "displayName": "Uncle Bob",
+            "avatarUrls": {
+              "48x48": "https://ios.jira-dev.com/secure/useravatar?avatarId=10423",
+              "72x72": "https://ios.jira-dev.com/secure/useravatar?size=xlarge&avatarId=10423"}
+            },
+            "timestamp": "2015-09-09T06:30:49.566Z",
+            "properties": {
+              "excerpt": "I comment in this situation. It's quite long. And you should replace it with 3 dot. I comment in this situation. It's quite long. And you should replace it with 3 dot.",
+              "commentId": "10619"
+            }
+          },
+          {
+            "type": "comment",
+            "source": {
+              "name": "bob",
+              "displayName": "Uncle Bob",
+              "avatarUrls": {
+                "48x48": "https://ios.jira-dev.com/secure/useravatar?avatarId=10423",
+                "72x72": "https://ios.jira-dev.com/secure/useravatar?size=xlarge&avatarId=10423"}
+              },
+              "timestamp": "2015-09-09T06:30:49.566Z",
+              "properties": {
+                "excerpt": "I comment in this situation. It's quite long. And you should replace it with 3 dot. I comment in this situation. It's quite long. And you should replace it with 3 dot.",
+                "commentId": "10619"
+              }
+            }
+          ],
+          "object": {
+            "id": "10401",
+            "type": "issue",
+            "properties": {
+              "issueKey": "JM-9",
+              "summary": "What happen with a long issue summary? I think it should expand the TextView in client. How does it render on Cards. It will be cut off or it extend the card height?What happen with a long issue summary? I think it should expand the TextView in client.255",
+              "priority": "3"
+            }
+          }
+        }

@@ -1,0 +1,1 @@
+When it's assign, it doesn't copy, it only copies when object changed
