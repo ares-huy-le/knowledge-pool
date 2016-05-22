@@ -1,5 +1,0 @@
-public class func databaseName(name: String?) -> String? {
-    return name.md5()
-}
-
-databaseName(username + url)

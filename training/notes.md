@@ -89,3 +89,5 @@ Coolthing for UI layout https://github.com/mamaral/Neon
 
 If I extend generic struct, I can't force it element as a type, I can only check whether element conform a protocol.
 If I extend generic protocol, I can do it.
+
+Remember disable auto mask constraint whenever use autolayout programmatically
